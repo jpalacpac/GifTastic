@@ -1,0 +1,30 @@
+p {
+	font-weight: bold;
+	margin: 10px;
+}
+
+button,
+div,
+form,
+input {
+      margin: 10px;
+    }
+
+
+form {
+	float: right;
+}
+
+
+.gif-Image {
+	display: inline-block;
+	padding: 10px 15px 15px 15px;
+	border: 1px solid lightgrey;
+}
+
+#add-form {
+	padding: 10px;
+	border-radius: 5px;
+	border: 1px solid lightgrey;
+	float: right;
+}
